@@ -1,6 +1,6 @@
 # npmdoc-publish-latest
 
-#### api documentation for  [publish-latest (v1.1.2)](https://github.com/kentcdodds/publish-latest#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-publish-latest.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-publish-latest) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-publish-latest.svg)](https://travis-ci.org/npmdoc/node-npmdoc-publish-latest)
+#### basic api documentation for  [publish-latest (v1.1.2)](https://github.com/kentcdodds/publish-latest#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-publish-latest.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-publish-latest) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-publish-latest.svg)](https://travis-ci.org/npmdoc/node-npmdoc-publish-latest)
 
 #### Script to publish generated files to a `latest` branch
 
